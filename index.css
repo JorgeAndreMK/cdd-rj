@@ -1,0 +1,26 @@
+
+    p{
+       font-weight:900;
+    font-size: 23px;
+    font-family:'Courier New', Courier, monospace;
+    background-color:black;
+    color:white;
+    padding:10px;
+}
+h1{
+    font-size:98px;
+    font-family: 'Courier New', Courier, monospace;
+    padding:20px;
+    color: whitesmoke;
+    background-color:black;
+    text-align:center
+}
+footer{
+    background-color: blue;
+    color:aquamarine;
+    font-family: 'Courier New', Courier, monospace;
+    padding:20px;
+    font-size:23px;
+    
+
+}
