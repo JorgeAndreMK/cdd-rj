@@ -1,0 +1,80 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+header{
+    background-color: black;
+    display:flex;
+    justify-content: space-between;
+    padding:15px;
+    align-items: center;
+}
+
+ul{
+    display: flex;
+    gap:30px;
+}
+
+a{
+    text-decoration: none;
+    font-size:20px;
+    font-weight:600;
+}
+
+#atualmente{
+    color:gold;
+}
+
+a:hover{
+    color:lightblue;
+}
+
+h1 {
+    color:white;
+}
+
+a {
+    color:white;
+}
+
+main{
+    width: 100%;
+    height:100vh;
+    background-color: black;
+    display:flex;
+    flex-flow:column;
+    align-items: center;
+    justify-content: center;
+}
+
+h2{
+    color:blue;
+    font-size:58px;
+}
+
+p{
+    color:lightblue; 
+    font-size:42px;
+}
+
+footer{
+    background-color: black;
+    color:red;
+    text-align: center;
+}
+.CDD{
+    color:red
+}
+
+.Logo_CDD{
+
+    background-repeat: no-repeat;
+    background-size:auto;
+    background-position: center;
+    width : 100%;
+}
